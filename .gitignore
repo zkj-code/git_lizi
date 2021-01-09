@@ -1,5 +1,3 @@
 # Created by .ignore support plugin (hsz.mobi)
-
-git_lizi.iml
-.idea/
-
+/git_lizi.iml
+/.idea/
