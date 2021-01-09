@@ -6,6 +6,6 @@ package com.example.demo;
  */
 public class hello {
     public static void main(String[] args) {
-        String str = "hello";
+        System.out.println("我是dev分支.....");
     }
 }
